@@ -52,5 +52,7 @@ def SendForm():
 b = Button(fenetrePrincipale ,text="Submit") #créer un bouton
 
 
+print("hello world")
+
 
 fenetrePrincipale.mainloop()
